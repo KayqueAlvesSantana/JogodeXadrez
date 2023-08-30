@@ -1,6 +1,6 @@
-package JogodeXadrez;
+package Boardgame;
 
-public class Position {
+public class    Position {
     private int row;
     private int column;
 
